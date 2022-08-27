@@ -1,2 +1,0 @@
-# reactAppDummy
-reactAppDummy
